@@ -9,6 +9,7 @@
 8. String Builder
 9. String Methods
 10. Palindrome
-11. a
-12. b
-13. c
+
+Permutations
+PhonePad
+Dice
